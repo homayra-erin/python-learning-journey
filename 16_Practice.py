@@ -26,3 +26,7 @@ def countVowCon(Sentence):
 #Function call
 vowels,Consonants=countVowCon("I am puzzled")
 print(vowels,Consonants)
+
+#3.Define a function convert_to_upper(word) that returns the uppercase version of the string.
+def convert_to_upper(word):
+    print()
