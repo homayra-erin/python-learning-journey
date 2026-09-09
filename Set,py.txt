@@ -1,3 +1,0 @@
-food={"Steak","Burger","Fries","Momo","Steak"}
-print(type(food))
-print(food)
